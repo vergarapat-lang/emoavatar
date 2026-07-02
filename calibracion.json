@@ -1,0 +1,18 @@
+{
+  "eyeBlinkLeft": 0.13843920280536015,
+  "eyeBlinkRight": 0.07333652166028817,
+  "eyeWideLeft": 0.00409502334271868,
+  "eyeWideRight": 0.005028261601304014,
+  "jawOpen": 0.015649324593444664,
+  "mouthSmileLeft": 0.07717691150804361,
+  "mouthSmileRight": 0.06774967523912588,
+  "mouthFrownLeft": 0.00018626355279896718,
+  "mouthFrownRight": 0.00019914928076711174,
+  "mouthStretchLeft": 0.005354080690691868,
+  "mouthStretchRight": 0.005099878568823139,
+  "browInnerUp": 0.0011116561518671611,
+  "browDownLeft": 0.41278519332408903,
+  "browDownRight": 0.3771251847346624,
+  "browOuterUpLeft": 0.0030513289384543896,
+  "browOuterUpRight": 0.00447157786693424
+}
